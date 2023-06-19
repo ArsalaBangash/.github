@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Arsala
 
-These days, I spend most of my time building [Grey Software](https://github.com/grey-software), a not-for-profit startup I founded in Canada to democratize software education.
+These days, I spend most of my time creating [Grey Software](https://github.com/grey-software), a not-for-profit startup I founded in Canada to democratize software education.
 
-**💡 If you're struggling with learning software development, connect with me on [LinkedIn](https://www.linkedin.com/in/arsalabangash/) with the message "Resources and Guidance," and we can create a self-paced plan for you!💡**
+In the past, I:
+
+- Interned as a Software Engineer at Google
+- Studied CS at UTM, where I also TA'ed and coordinated the Hack Lab
+- Provided unpaid on-demand IT support for my friends and family 🤣
+
+**💡 If you're struggling with learning software development, connect with me on [LinkedIn](https://www.linkedin.com/in/arsalabangash/) with the message "Resources and Guidance,"💡**
 
 # Badges
 
